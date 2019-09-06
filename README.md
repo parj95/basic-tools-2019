@@ -30,4 +30,5 @@ Course Basic Tools UCA DSc
 - Install git, gitk
 - Create a first repository, clone the basic-tools-2019 repository
 - Commit a file to make a list of present students, observe conflicts (do not resolve)
+- Learn to use Typora and markdown
 
