@@ -32,3 +32,15 @@ Course Basic Tools UCA DSc
 - Commit a file to make a list of present students, observe conflicts (do not resolve)
 - Learn to use Typora and markdown
 
+### Lecture 3 and 4
+
+**Date:** September 23<sup>rd</sup>, 2019 (morning and afternoon)
+
+**Slides:** [playing with branches and tags](slides/Lecture2b.pdf) 
+
+**Lab**:
+
+- Answer questions of slide 13, and commit your answers on your local repository using markdown format
+- Make a fast-forward merge and a merge commit (with or without modifications) but without any conflicts of any kind.
+- backup your repository to an external drive and explain the procedure in a markdown file that should be committed to your local repository (explain backup and restore procedures)
+- push your local repository to your remote repository (not to mine!)
